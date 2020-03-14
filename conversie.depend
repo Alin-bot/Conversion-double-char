@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1579013818 source:c:\users\40742\desktop\stuffs\conversie\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+
+1579014656 source:c:\users\40742\desktop\stuffs\proiecte\conversie double to char\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+
